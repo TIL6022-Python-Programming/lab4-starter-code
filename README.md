@@ -1,5 +1,5 @@
 # Lab4 Starter Code
-This repository contains the code template for the Lab 4 Python Environment developed for the course TIL6022 Python Programming at TU Delft. 
+This repository contains the code template for the Lab 4 Data Import Export developed for the course TIL6022 Python Programming at TU Delft. 
 
 ## Instructions for Teachers
 
